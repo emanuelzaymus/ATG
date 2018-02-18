@@ -1,0 +1,18 @@
+### Netbeans ###
+
+**/build/
+**/dist*/
+**/nbproject/
+**/nbbuild/
+**/nbdist/
+**/.nb-gradle/
+**/*.xml
+**/*.mf
+
+
+
+### Intellij ###
+
+**/.idea/
+**/out/
+**/*.iml
